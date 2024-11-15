@@ -1,4 +1,4 @@
-# Sablier V2 Integration Template
+# Sablier Integration Template
 
 This repository contains templates for building integrations with Sablier.
 
