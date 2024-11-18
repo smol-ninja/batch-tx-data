@@ -1,6 +1,7 @@
 # Lockup Integration Template
 
-This repository contains templates for building integrations with [Sablier Lockup](https://github.com/sablier-labs/v2-core).
+This repository contains templates for building integrations with
+[Sablier Lockup](https://github.com/sablier-labs/v2-core).
 
 - **LockupStreamCreator**: A template for creating a Lockup Linear stream.
 
