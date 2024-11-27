@@ -24,3 +24,4 @@
 
 [rpc_endpoints]
   sepolia = "${RPC_URL_SEPOLIA}"
+  mainnet = "${RPC_URL_MAINNET}"
